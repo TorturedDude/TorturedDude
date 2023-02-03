@@ -4,7 +4,7 @@
 
 **Technical skills:**
 
-- Языки программирования: Python(1.5 year), UNIX/Linux shell and standard toolkit, SQL,  C#(0.5 year), Java(0.5 year)
+- Языки программирования: Python(1.5 year), UNIX/Linux shell and standard toolkit, SQL,  C#(0.5 year), Java(1 year)
 - Технологии и фреймворки: Django, Flask, ASP .NET CORE MVC, HTML, CSS, Bootstrap, Docker, Spring MVC, Kivy,  KivyMD.
 - Веб-серверы: -
 - Базы данных: postgresql

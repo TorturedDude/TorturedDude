@@ -19,7 +19,12 @@
 
 - [Университет], Калужский филиал МГТУ им. Н.Э. Баумана, Россия    (В данный момент обучаюсь на 3 курсе)
 - [Курсы Udemy], Python + Django: с нуля до коммерческих приложений
+<details>
+<summary>:bar_chart: Show Most Used Languages</summary>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorturedDude&layout=compact&theme=tokyonight&langs_count=5&hide=Python&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
+
+</deatails>
 
 
 **Work Experience:**

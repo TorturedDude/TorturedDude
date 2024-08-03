@@ -4,9 +4,9 @@
 
 **Technical skills:**
 
-- Языки программирования: Python(1.5 year), UNIX/Linux shell and standard toolkit, SQL,  C#(0.5 year), Java(1 year)
-- Технологии и фреймворки: Django, Flask, ASP .NET CORE MVC, HTML, CSS, Bootstrap, Docker, Spring MVC, Kivy,  KivyMD.
-- Веб-серверы: -
+- Языки программирования: Python(2.5 year), UNIX/Linux shell and standard toolkit, SQL,  C#(1 year), Java(3 year)
+- Технологии и фреймворки: Django, Flask, ASP .NET CORE MVC, HTML, CSS, Bootstrap, Docker, Spring MVC, Kivy,  KivyMD, Spring boot, hibernate, Spring Security, Kafka.
+- Веб-серверы: Tomcat, Jetty
 - Базы данных: postgresql
 - Инструменты тестирования кода / приложения: PyTest;
 - Среды разработки: WebStorm, PyCharm, Rider, VS Code, Intellij Idea.
@@ -17,7 +17,7 @@
 
 **Education:**
 
-- [Университет], Калужский филиал МГТУ им. Н.Э. Баумана, Россия    (В данный момент обучаюсь на 3 курсе)
+- [Университет], Калужский филиал МГТУ им. Н.Э. Баумана, Россия    (В данный момент обучаюсь на 4 курсе)
 - [Курсы Udemy], Python + Django: с нуля до коммерческих приложений
 <details>
 <summary>:bar_chart: Show Most Used Languages</summary>

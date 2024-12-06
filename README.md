@@ -1,6 +1,6 @@
 **Technical skills:**
 
-- **Programming languages**: Kotlin, Java, SQL
+- **Programming languages**: Kotlin, Java, SQL, Python, Go
 - **Technologies and frameworks**: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring WebFlux, Kotlin Coroutines, Spring Cloud, Spring Ldap, gRPC, Kafka, RabbitMQ
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **ORM & Data Management**: Hibernate, QueryDSL, Flyway, Liquibase
